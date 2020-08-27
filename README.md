@@ -1,4 +1,4 @@
-# Running prokect on IntelliJ
+# Running project on IntelliJ
 
 This project has been set up to work with 
 IntelliJ Ultimate.
