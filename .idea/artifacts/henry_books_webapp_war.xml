@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="henry-books-webapp:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/henry_books_webapp_war</output-path>
+    <root id="archive" name="henry-books-webapp_war.war">
+      <element id="artifact" artifact-name="henry-books-webapp:war exploded" />
+    </root>
+  </artifact>
+</component>
